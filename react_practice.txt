@@ -1,2 +1,3 @@
 react components detailed :-  https://www.knowledgehut.com/blog/web-development/react-functional-components
 
+react props and state :- https://www.knowledgehut.com/blog/web-development/reactjs-state
